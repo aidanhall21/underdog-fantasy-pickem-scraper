@@ -49,8 +49,6 @@ If you have comments or questions reach out to me on Twitter/X @tistonionwings
 
 ## Donation
 
-If you find this project helpful and would like to support the developer, you can donate to the following BTC address:
-
-bc1q9s5q6wy3ntumpsel834axwf6x55up4uvk3uyr0
+If you find this project helpful and would like to support the developer, you can donate [by clicking here](https://www.paypal.com/paypalme/ultimateratings).
 
 Thank you for your generosity!
